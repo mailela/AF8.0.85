@@ -1,0 +1,8 @@
+AF:
+  host: 127.0.0.1
+  port: 8343
+  username: "test"
+  password: "test@123654"
+API:
+  token: 123654
+  port: 8001
